@@ -1,0 +1,27 @@
+{
+  "name": "npm-eg",
+  "version": "0.0.0",
+  "description": "npm-module-example",
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.2.0",
+    "eslint-plugin-react": "^4.2.3",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narr/npm-eg.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "example"
+  ],
+  "author": "Jason Seonhong Kim <nardgu@gmail.com> (https://narr.github.io/)"
+}
