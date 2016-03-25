@@ -1,3 +1,3 @@
 module.exports = function test() {
-  return 'npm-module-example';
+  return 'npm-module-example-patch';
 };
